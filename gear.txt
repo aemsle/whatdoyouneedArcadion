@@ -1,0 +1,14 @@
+GEAR POG
+
+WEP -
+HEAD -
+CHEST -
+GLOVES -
+LEGS - 
+BOOTS -
+
+EARRING - 
+NECK - 
+WRIST - 
+RING1 - 
+RING2 -
